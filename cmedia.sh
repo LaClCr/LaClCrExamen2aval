@@ -19,4 +19,4 @@ done
 
 media=$(($sumaConsumo / $contador))
 
-echo "Media de consumo de $ciudadIntroducida ---> $media"
+echo $media
